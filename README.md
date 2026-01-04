@@ -12,3 +12,5 @@ Work in Progress Machine Learning for our Capstone
 4. After toggling the virtual environment on, type on the terminal 'pip install -r requirements.txt'. This will install the necessary libraries to run the program.
 5. After installing the necessary libraries, run real\_time\_detect.py by typing 'python real\_time\_detect.py' on the terminal.
 6. A window should pop up and the program is now ready to detect baby cries.
+
+Link: https://youtu.be/FNiIyOctbBQ
